@@ -3,7 +3,7 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
 │𝐂𝐄𝐑𝐕𝐄𝐁𝐎𝐓
-│➯Wa.me/51992621601 (CREADOR)
+│➯Wa.me/+16099829453 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/OFC-YOVANI/HADES-BOT-OMEGA` },
